@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scan Me! Calculator</string>
+    <string name="input_title">Input :</string>
+    <string name="result_title">Result :</string>
+    <string name="result">1 + 2</string>
+    <string name="add_input">Add Input</string>
+    <string name="app_title">Scan Me! Calculator</string>
+    <string name="capture">Capture</string>
+</resources>
